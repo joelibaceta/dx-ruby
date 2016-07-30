@@ -1,1 +1,1 @@
-# px-ruby
+MercadoPago Ruby Gem
