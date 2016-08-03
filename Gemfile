@@ -13,8 +13,7 @@ gem 'activesupport', '~> 3.0.0'
 gem 'yard',             require: false
 
 # Continuos Integration
-#
-gem 'codecov',   :require => false, :group => :test
+# 
 gem 'simplecov', :require => false
 
 # Testing
